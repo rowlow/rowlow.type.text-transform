@@ -3,14 +3,14 @@
 @import 'functions';
 
 
-.#{$rowlow-text-transform-namespace}uppercase{
+.#{$rowlow-text-transform-namespace}text-transform--uppercase{
 	text-transform: uppercase !important;
 }
 
-.#{$rowlow-text-transform-namespace}lowercase{
+.#{$rowlow-text-transform-namespace}text-transform--lowercase{
 	text-transform: lowercase !important;
 }
 
-.#{$rowlow-text-transform-namespace}nocase{
+.#{$rowlow-text-transform-namespace}text-transform--none{
 	text-transform: none !important;
 }
