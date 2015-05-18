@@ -1,0 +1,16 @@
+@import 'settings';
+@import 'mixins';
+@import 'functions';
+
+
+.#{$rowlow-text-transform-namespace}uppercase{
+	text-transform: uppercase !important;
+}
+
+.#{$rowlow-text-transform-namespace}lowercase{
+	text-transform: lowercase !important;
+}
+
+.#{$rowlow-text-transform-namespace}nocase{
+	text-transform: none !important;
+}
