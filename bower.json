@@ -1,6 +1,6 @@
 {
   "name": "rowlow.type.text-transform",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "homepage": "http://rowlow.github.io",
   "authors": [
     "Roland Lösslein <info@weaintplastic.com>"
@@ -15,7 +15,6 @@
   "license": "MIT",
   "ignore": [],
   "dependencies": {
-    "rowlow.utils.breakpoints": "~0.1.0",
     "rowlow.settings.default": "~0.1.2"
   }
 }
