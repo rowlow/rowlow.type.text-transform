@@ -28,8 +28,8 @@ A little util to take control over text transforms via CSS selectors
 
 ### HTML
 ```
-    <h1 class="uppercase"></h1>
-    <h1 class="lowercase"></h1>
-    <h1 class="nocase"></h1>
+    <h1 class="text-transform--uppercase"></h1>
+    <h1 class="text-transform--lowercase"></h1>
+    <h1 class="text-transform--none"></h1>
 ```
 
